@@ -14,13 +14,13 @@ Example msw & ovral. Project-template shows example with api generation and mock
 
 ## Files
 
-mockServiceWorker.js \n
-ovral.config.ts \n
-src/main.tsx \n
-src/shared/api/\*\* \n
-src/shared/config/\*\* \n
+- mockServiceWorker.js
+- ovral.config.ts
+- src/main.tsx
+- src/shared/api/\*\*
+- src/shared/config/\*\*
 
 ### Store
 
-src/shared/store/\*\* \n
-src/app/providers/redux\*\* \n
+- src/shared/store/\*\*
+- src/app/providers/redux\*\*
