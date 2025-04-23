@@ -1,4 +1,5 @@
 # About
+Example msw & ovral. Project-template shows example with api generation and mock handlers generation
 
 ## Getting started
 
@@ -13,13 +14,13 @@
 
 ## Files
 
-mockServiceWorker.js
-ovral.config.ts
-src/main.tsx
-src/shared/api/\*\*
-src/shared/config/\*\*
+mockServiceWorker.js \n
+ovral.config.ts \n
+src/main.tsx \n
+src/shared/api/\*\* \n
+src/shared/config/\*\* \n
 
 ### Store
 
-src/shared/store/\*\*
-src/app/providers/redux\*\*
+src/shared/store/\*\* \n
+src/app/providers/redux\*\* \n
